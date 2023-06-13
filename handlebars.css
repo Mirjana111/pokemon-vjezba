@@ -8,6 +8,10 @@ table {
   width: 100%;
 }
 th,
+h1{
+  color:blue;
+  font-weight: bolder;
+}
 td {
   border: 1px solid rgb(255, 0, 234);
   padding: 8px;
